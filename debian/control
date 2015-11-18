@@ -1,0 +1,12 @@
+Source: ros-jade-rgbd-launch
+Section: misc
+Priority: extra
+Maintainer: Piyush Khandelwal <piyushk@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-depth-image-proc, ros-jade-image-proc, ros-jade-nodelet, ros-jade-tf2-ros
+Homepage: http://www.ros.org/wiki/rgbd_launch
+Standards-Version: 3.9.2
+
+Package: ros-jade-rgbd-launch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-depth-image-proc, ros-jade-image-proc, ros-jade-nodelet, ros-jade-tf2-ros
+Description: Launch files to open an RGBD device and load all nodelets to convert raw depth/RGB/IR streams to depth images, disparity images, and (registered) point clouds.
