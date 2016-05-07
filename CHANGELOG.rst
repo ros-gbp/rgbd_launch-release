@@ -2,11 +2,18 @@
 Changelog for package rgbd_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.1.2 (2016-05-07)
+2.2.1 (2016-05-07)
 ------------------
-* [feat] depth_registered_filtered injection `#25 <https://github.com/ros-drivers/rgbd_launch/issues/25>`_
-* [sys] [Travis CI] Update config to using industrial_ci with Prerelease Test. `#23 <https://github.com/ros-drivers/rgbd_launch/issues/23>`_
+* [feat] Depth registered filtered `#26 <https://github.com/ros-drivers/rgbd_launch/issues/26>`_
+* [sys] Update config to using industrial_ci with Prerelease Test. `#24 <https://github.com/ros-drivers/rgbd_launch/issues/24>`_
 * Contributors: Jonathan Bohren, Isaac I.Y. Saito
+
+2.2.0 (2015-11-17)
+------------------
+* 1st release into ROS Jade
+* [feat] Adjust to tf2 (`#18 <https://github.com/ros-drivers/rgbd_launch/issues/18>`_)
+* [sys] travis enabled
+* Contributors: Daiki Maekawa, Isaac I.Y. Saito
 
 2.1.1 (2015-11-16)
 ------------------
