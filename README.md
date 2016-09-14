@@ -1,3 +1,26 @@
+## rgbd_launch (jade) - 2.2.2-0
+
+The packages in the `rgbd_launch` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade rgbd_launch` on `Wed, 14 Sep 2016 03:50:03 -0000`
+
+The `rgbd_launch` package was released.
+
+Version of package(s) in repository `rgbd_launch`:
+
+- upstream repository: https://github.com/ros-drivers/rgbd_launch.git
+- release repository: https://github.com/ros-gbp/rgbd_launch-release.git
+- rosdistro version: `2.2.1-0`
+- old version: `2.2.1-0`
+- new version: `2.2.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.39`
+
+
 ## rgbd_launch (kinetic) - 2.2.1-1
 
 The packages in the `rgbd_launch` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic rgbd_launch --edit` on `Sun, 11 Sep 2016 05:30:36 -0000`
