@@ -1,3 +1,26 @@
+## rgbd_launch (lunar) - 2.2.2-0
+
+The packages in the `rgbd_launch` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar rgbd_launch` on `Mon, 24 Apr 2017 07:37:46 -0000`
+
+The `rgbd_launch` package was released.
+
+Version of package(s) in repository `rgbd_launch`:
+
+- upstream repository: https://github.com/ros-drivers/rgbd_launch.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.2.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## rgbd_launch (kinetic) - 2.2.2-0
 
 The packages in the `rgbd_launch` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic rgbd_launch` on `Wed, 14 Sep 2016 03:55:22 -0000`
