@@ -1,3 +1,26 @@
+## rgbd_launch (noetic) - 2.4.0-1
+
+The packages in the `rgbd_launch` repository were released into the `noetic` distro by running `/usr/bin/bloom-release rgbd_launch --rosdistro noetic` on `Sun, 19 Feb 2023 11:39:33 -0000`
+
+The `rgbd_launch` package was released.
+
+Version of package(s) in repository `rgbd_launch`:
+
+- upstream repository: https://github.com/ros-drivers/rgbd_launch.git
+- release repository: https://github.com/ros-gbp/rgbd_launch-release.git
+- rosdistro version: `2.3.0-1`
+- old version: `2.3.0-1`
+- new version: `2.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rgbd_launch (noetic) - 2.3.0-1
 
 The packages in the `rgbd_launch` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic rgbd_launch --edit` on `Wed, 03 Jun 2020 00:24:29 -0000`
