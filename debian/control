@@ -1,0 +1,12 @@
+Source: ros-noetic-rgbd-launch
+Section: misc
+Priority: optional
+Maintainer: Piyush Khandelwal <piyushk@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-depth-image-proc, ros-noetic-image-proc, ros-noetic-nodelet, ros-noetic-rostest <!nocheck>, ros-noetic-tf2-ros
+Homepage: http://www.ros.org/wiki/rgbd_launch
+Standards-Version: 3.9.2
+
+Package: ros-noetic-rgbd-launch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-depth-image-proc, ros-noetic-image-proc, ros-noetic-nodelet, ros-noetic-tf2-ros
+Description: Launch files to open an RGBD device and load all nodelets to convert raw depth/RGB/IR streams to depth images, disparity images, and (registered) point clouds.
